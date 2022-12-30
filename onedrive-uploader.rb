@@ -1,8 +1,8 @@
 class OnedriveUploader < Formula
   desc "Command-line utility for uploading files to OneDrive"
   homepage "https://github.com/virtualzone/onedrive-uploader"
-  url "https://github.com/virtualzone/onedrive-uploader/archive/refs/tags/v0.6.2.tar.gz"
-  sha256 "c871cdffccba1c4f8693222992122c34c19ac9986825fe68cea145f36d90edef"
+  url "https://github.com/virtualzone/onedrive-uploader/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "6067d12a9730ba537e4e56a80eabd04a793704e49d8c567955871f0ca456ee84"
   license "MIT"
   head "https://github.com/virtualzone/onedrive-uploader.git", branch: "main"
 
